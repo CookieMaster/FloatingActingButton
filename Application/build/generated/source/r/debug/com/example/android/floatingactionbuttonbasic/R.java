@@ -217,10 +217,6 @@ containing a value of this type.
         public static final int cardview_light_background=0x7f050001;
         public static final int cardview_shadow_end_color=0x7f050002;
         public static final int cardview_shadow_start_color=0x7f050003;
-        public static final int fab_color_1=0x7f050004;
-        public static final int fab_color_1_muted=0x7f050005;
-        public static final int fab_color_2=0x7f050006;
-        public static final int fab_color_2_muted=0x7f050007;
     }
     public static final class dimen {
         public static final int cardview_compat_inset_shadow=0x7f060000;

@@ -1,0 +1,7 @@
+C:\Users\joshm\Desktop\FloatingActionButtonBasic\Application\build\intermediates\classes\debug
+C:\Users\joshm\Desktop\FloatingActionButtonBasic\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-cf9f160313404d546bddea0eb94f60fef61e659b.jar
+C:\Users\joshm\Desktop\FloatingActionButtonBasic\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-b6dac936c8049cf3beefbd5b307f070514499a87.jar
+C:\Users\joshm\Desktop\FloatingActionButtonBasic\Application\build\intermediates\pre-dexed\debug\classes-f90bd8fd4d15ae262a82da670e21dfd3ff28a81b.jar
+C:\Users\joshm\Desktop\FloatingActionButtonBasic\Application\build\intermediates\pre-dexed\debug\classes-19bf427d5e49dd3c2ee53dc2154c8942cf990c12.jar
+C:\Users\joshm\Desktop\FloatingActionButtonBasic\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-03f62ef8164ed2f97a5e6ac5c6e856b9d4810446.jar
+C:\Users\joshm\Desktop\FloatingActionButtonBasic\Application\build\intermediates\pre-dexed\debug\classes-ea668d9f048bea6c5f185086779118047f9fdf2b.jar
