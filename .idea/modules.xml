@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Application/Application.iml" filepath="$PROJECT_DIR$/Application/Application.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FloatingActionButtonBasic.iml" filepath="$PROJECT_DIR$/FloatingActionButtonBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloatingActingButton.iml" filepath="$PROJECT_DIR$/FloatingActingButton.iml" />
     </modules>
   </component>
 </project>

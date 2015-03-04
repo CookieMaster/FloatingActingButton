@@ -16,8 +16,8 @@
             android:layout_marginBottom="16dp"
             android:layout_marginRight="16dp"
             android:layout_marginEnd="16dp"
-            android:layout_gravity="right|bottom">
+            android:layout_gravity="end|bottom">
 
     </com.example.android.floatingactionbuttonbasic.FloatingActionButton>
 </FrameLayout>
-<!-- From: file:/C:/Users/joshm/Desktop/FloatingActionButtonBasic/Application/src/main/res/layout/fab_layout.xml -->
+<!-- From: file:/C:/Users/Josh/Desktop/FloatingActingButton/Application/src/main/res/layout/fab_layout.xml -->

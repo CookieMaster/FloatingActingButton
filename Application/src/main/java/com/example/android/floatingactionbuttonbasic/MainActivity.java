@@ -7,7 +7,6 @@ import android.content.Intent;
 import android.net.Uri;
 
 
-
 public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -15,7 +14,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.fab_layout);
     }
 
-    // Make top button go to GitHub
+    // Make button go to GitHub
     public void goToGit(View view) {
         goToUrl ( "http://github.com/CookieMaster");
     }

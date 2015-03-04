@@ -25,7 +25,6 @@ import android.support.annotation.DrawableRes;
 import android.support.annotation.IntDef;
 import android.util.AttributeSet;
 import android.widget.ImageButton;
-import android.widget.TextView;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 
@@ -106,53 +105,7 @@ public class FloatingActionButton extends ImageButton {
         }
     }
 
-    @FAB_SIZE
-    public int getSize() {
-        return mSize;
-    }
 
-    public void setIcon(@DrawableRes int icon) {
-        if (mIcon != icon) {
-            mIcon = icon;
-            updateBackground();
-        }
-    }
-
-    /**
-     * @return the current Color for normal state.
-     */
-    public int getColorNormal() {
-        return mColorNormal;
-    }
-
-    public void setColorNormalResId(@ColorRes int colorNormal) {
-        setColorNormal(getColor(colorNormal));
-    }
-
-    public void setColorNormal(int color) {
-        if (mColorNormal != color) {
-            mColorNormal = color;
-            updateBackground();
-        }
-    }
-
-    /**
-     * @return the current color for pressed state.
-     */
-    public int getColorPressed() {
-        return mColorPressed;
-    }
-
-    public void setColorPressedResId(@ColorRes int colorPressed) {
-        setColorPressed(getColor(colorPressed));
-    }
-
-    public void setColorPressed(int color) {
-        if (mColorPressed != color) {
-            mColorPressed = color;
-            updateBackground();
-        }
-    }
 
     int getColor(@ColorRes int id) {
         return getResources().getColor(id);
@@ -162,16 +115,6 @@ public class FloatingActionButton extends ImageButton {
         return getResources().getDimension(id);
     }
 
-    public void setTitle(String title) {
-        mTitle = title;
-        TextView label = (TextView) getTag(R.id.fab_label);
-        if (label != null)
-            label.setText(title);
-    }
-
-    public String getTitle() {
-        return mTitle;
-    }
 
     @Override
     protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {

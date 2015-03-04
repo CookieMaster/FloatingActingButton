@@ -52,10 +52,9 @@ int dimen vertical_page_margin 0x7f060017
 int drawable fab_bg_mini 0x7f020000
 int drawable fab_bg_normal 0x7f020001
 int drawable fab_icons 0x7f020002
-int drawable ic_add 0x7f020003
+int drawable ic_add_white 0x7f020003
 int drawable ic_launcher 0x7f020004
-int drawable ic_tick 0x7f020005
-int drawable tile 0x7f020006
+int drawable tile 0x7f020005
 int id down 0x7f070004
 int id fab_expand_menu_button 0x7f070000
 int id fab_label 0x7f070001
